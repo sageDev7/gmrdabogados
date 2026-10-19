@@ -452,3 +452,5 @@ body.nav-open .mnav-ov{opacity:1;visibility:visible}
   .nf-ctas .btn,.cta-btns .btn{width:100%;max-width:300px}
   .cta-btns{width:100%;justify-items:center}
 }
+.ftr-legal a{color:var(--muted)!important;font-weight:500!important}
+.ftr-legal a:hover{color:var(--acero)!important}

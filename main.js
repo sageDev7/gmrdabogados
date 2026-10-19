@@ -88,6 +88,7 @@
     form.addEventListener("submit", function (e) {
       if (!btn) { e.preventDefault(); if (waBtn) waBtn.click(); return; }   /* formulario solo por WhatsApp */
       if (!check(true)) { e.preventDefault(); return; }
+      if (!form.getAttribute("action")) { e.preventDefault(); return; }   /* envío por email todavía sin configurar */
       sending = true; btn.disabled = true; btn.textContent = "Enviando...";
     });
     if (waBtn) waBtn.addEventListener("click", function () {

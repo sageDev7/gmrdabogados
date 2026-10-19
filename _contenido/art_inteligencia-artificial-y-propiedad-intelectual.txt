@@ -1,0 +1,60 @@
+INICIO
+SOBRE NOSOTROS
+PRACTICAS
+INSIGHTS
+Protección de Datos y Ciberseguridad
+Contratos Inteligentes y Firma Digital
+Inteligencia Artificial y Propiedad Intelectual
+CONTACTO
+Inteligencia Artificial y Propiedad Intelectual
+Inteligencia Artificial y Propiedad Intelectual: Titularidad de Desarrollos, Patentes y Activos Intangibles
+​Análisis dogmático de la Ley de Propiedad Intelectual (Ley 11.723), la Ley de Patentes de Invención y Modelos de Utilidad (Ley 24.481), los límites de la autoría humana y el resguardo de secretos comerciales en startups y empresas tecnológicas.
+​Por: Dr. Gerardo M. Ruiz Díaz (Fundador de GMRD Abogados)
+SUMARIO:
+​Introducción y el régimen de autoría de la Ley 11.723
+​La problemática del software, la IA generativa y el requisito del autor humano
+​El régimen de Patentes de Invención (Ley 24.481) en la tecnología y la IA
+​3.1. Prohibiciones legales y el software "como tal"
+​3.2. Invenciones Implementadas en Computadora (IIC) y la IA como herramienta
+​3.3. Requisitos de patentabilidad: Novedad, actividad inventiva y aplicación industrial
+​Estrategia contractual y resguardo de secretos comerciales
+​Conclusión y el deber de rigor en la protección patrimonial
+​I. INTRODUCCIÓN Y EL RÉGIMEN DE AUTORÍA (LEY 11.723)
+​La protección de activos intangibles tecnológicos en el ecosistema emprendedor y corporativo requiere una estrategia jurídica articulada sobre la normativa de propiedad intelectual e industrial. El desarrollo acelerado de plataformas de software e integración de Inteligencia Artificial obliga a delimitar con exactitud la titularidad de los derechos patrimoniales sobre el código fuente, los algoritmos y los outputs generados.
+​Frente a disputas entre socios fundadores (founders), empleados o contratistas independientes, la omisión de acuerdos explícitos o el encuadre erróneo del activo puede derivar en la pérdida irrecuperable de la exclusividad sobre la innovación.
+​En la Argentina, la Ley 11.723 de Propiedad Intelectual asimila el software (programas de computación) a las obras literarias, científicas y artísticas (art. 1°). Esta protección recae sobre la forma de expresión del código (fuente y objeto), pero no sobre las ideas, algoritmos, principios matemáticos o funcionalidades operativas.
+​II. LA PROBLEMÁTICA DEL SOFTWARE Y LA IA GENERATIVA
+​1. El límite de la autoría humana
+​Tanto en la Ley 11.723 como en la doctrina constitucional argentina, el derecho de autor surge indiscutiblemente de la creación humana (persona humana). Los sistemas de Inteligencia Artificial carecen de personalidad jurídica y de capacidad de imputación de derechos u obligaciones.
+​Creaciones autónomas de IA: Los resultados obtenidos mediante herramientas de IA generativa sin intervención creativa directa humana caen al dominio público, al no ser reconocidos como obras protegibles.
+​Creaciones asistidas por IA: Cuando la IA actúa como mero instrumento y el desarrollador o diseñador ejerce un control creativo directo, la protección se limita exclusivamente a las aportaciones originales humanas.
+​2. El código fuente de terceros y las licencias Open Source
+​El uso desmedido de componentes de código abierto en la arquitectura de un software puede contaminar la propiedad del producto (efecto viral de licencias GPL/Copyleft), imposibilitando el registro exclusivo o el licenciamiento comercial restrictivo.
+​III. EL RÉGIMEN DE PATENTES DE INVENCIÓN (LEY 24.481) EN LA TECNOLOGÍA Y LA IA
+​El sistema de patentes otorga un monopolio legal de explotación por un plazo improrrogable de 20 años contados desde la fecha de presentación de la solicitud (art. 35, Ley 24.481). Sin embargo, su aplicación al ámbito tecnológico requiere cumplir exigencias técnicas rigurosas dictadas por el Instituto Nacional de la Propiedad Industrial (INPI).
+​3.1. Prohibiciones legales y el software "como tal"
+​El artículo 6° de la Ley 24.481 establece explícitamente qué materias no son consideradas invenciones:
+​Art. 6 inc. c): Los planes, reglas y métodos para el ejercicio de actividades intelectuales, para juegos o para actividades económico-comerciales, así como los programas de computación.
+​Art. 6 inc. a): Los descubrimientos, las teorías científicas y los métodos matemáticos.
+​Por ende, un algoritmo o un modelo de aprendizaje automático (Machine Learning) en estado puro no es patentable.
+​3.2. Invenciones Implementadas en Computadora (IIC) e IA
+​Para que una solución basada en software o IA pueda acceder a la protección por patentes, debe encuadrarse como una Invención Implementada en Computadora (IIC) conforme la Directriz de Examen de Patentes del INPI.
+​Para superar el examen de patentabilidad, el software o modelo de IA debe producir un efecto técnico adicional:
+​Patentable: Un sistema de IA integrado a un hardware médico que analiza señales de ECG en tiempo real para activar de forma física un desfibrilador interno (resuelve un problema técnico mediante un proceso físico).
+​No patentable: Un algoritmo de IA enfocado únicamente en la predicción bursátil o la calificación crediticia de usuarios (constituye un método económico/comercial y un método matemático abstracto).
+​3.3. Requisitos sustanciales de patentabilidad (Art. 4, Ley 24.481)
+​Novedad Absoluta (Mundial): La invención no debe existir en el estado de la técnica a nivel global antes de la presentación. La divulgación previa por los propios inventores está contemplada con un período de gracia de 12 meses (art. 5°).
+​Actividad Inventiva: El desarrollo no debe resultar evidente para una persona capacitada en la materia técnica correspondiente (un programador o ingeniero experto).
+​Aplicación Industrial: La invención debe conducir a la obtención de un producto o resultado industrial observable y reproducible.
+​IV. ESTRATEGIA CONTRACTUAL Y RESGUARDO TÉCNICO
+​Dado que las patentes de invención exigen divulgación pública (publicación de la solicitud) y conllevan costos y plazos administrativos extensos (3 a 5 años en el INPI), las empresas tecnológicas deben aplicar una estrategia combinada (multipropiedad intelectual):
+​1. El Secreto Comercial (Ley 24.766 de Confidencialidad)
+​Los parámetros internos, las arquitecturas de datos, los datasets de entrenamiento refinados y los pesos de modelos de IA deben resguardarse bajo la Ley 24.766. Para mantener este estatus legal, la empresa debe demostrar la adopción de medidas razonables de seguridad:
+​Control de accesos lógicos (autenticación multifactor, cifrado en reposo y tránsito).
+​Firma de Acuerdos de Confidencialidad (NDAs) con cláusulas penales cuantificables.
+​2. Cesión de Derechos y Obras por Encargo
+​En el régimen argentino, la titularidad originaria de la propiedad intelectual pertenece al creador físico (salvo en materia de marcas y patentes bajo relación laboral conforme el art. 10 de la Ley 24.481 y el régimen del software comercial).
+​En la Ley 11.723: Es imprescindible incluir en contratos laborales e independientes la cesión expresa, previa, exclusiva e ilimitada de derechos patrimoniales sobre el código y los desarrollos, incluyendo cualquier invención, modelo de utilidad u obra derivada.
+​V. CONCLUSIÓN Y EL DEBER DE RIGOR EN LA PRAXIS PATRIMONIAL
+​La protección de activos intangibles e Inteligencia Artificial en el derecho argentino exige un enfoque riguroso y quirúrgico. La acumulación de software no protegido, la falta de registro de marcas, la omisión de patentes sobre procesos técnicos y la débil tutela de secretos comerciales minan la valuación corporativa (due diligence) ante posibles rondas de inversión o transacciones de M&A.
+​La articulación oportuna entre el Derecho de Autor (DNDA), la Propiedad Industrial (INPI) y el Secreto Comercial (Ley 24.766) constituye la única vía real para blindar el valor de mercado de la empresa y consolidar su ventaja competitiva en el mercado global.

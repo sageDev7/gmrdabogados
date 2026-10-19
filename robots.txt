@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /_scripts/
+Disallow: /_contenido/

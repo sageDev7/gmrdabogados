@@ -1,0 +1,52 @@
+INICIO
+SOBRE NOSOTROS
+PRACTICAS
+INSIGHTS
+Protección de Datos y Ciberseguridad
+Contratos Inteligentes y Firma Digital
+Inteligencia Artificial y Propiedad Intelectual
+CONTACTO
+Contratos Inteligentes y Firma Digital
+CONTRATOS INTELIGENTES Y FIRMA DIGITAL
+​BUENOS AIRES, ARGENTINA | GMRD DOCTRINA DIGITAL • AÑO I • EDICIÓN N° 2
+GMRD DIARIO
+DOCTRINA, TECNOLOGÍA CONTRACTUAL Y VALIDEZ JURÍDICA
+​DOCTRINA / CONTRATACIÓN DIGITAL
+​Smart Contracts y Validez Legal: Desafíos de la Firma Digital en la Contratación Comercial
+​
+Estudio dogmático sobre la Ley de Firma Digital (Ley 25.506), el Decreto Reglamentario 182/2019, la articulación con el Código Civil y Comercial de la Nación y la ejecutoriedad judicial de los contratos inteligentes.
+​Por: Dr. Gerardo M. Ruiz Díaz (Fundador de GMRD Abogados. Abogado).
+SUMARIO:
+​I. Introducción y el principio de equivalencia funcional. — II. Marco normativo: Del CCCN a la Ley 25.506 y su Decreto Reglamentario 182/2019. — III. Diferencia dogmática: Firma Digital vs. Firma Electrónica. — IV. La naturaleza jurídica del Smart Contract: ¿Código, contrato o medio probatorio? — V. Requisitos formales de admisibilidad y blindaje probatorio en sede judicial. — VI. Conclusión y el deber de rigor en la arquitectura contractual.
+​I. INTRODUCCIÓN Y EL PRINCIPIO DE EQUIVALENCIA FUNCIONAL
+​La instrumentación de negocios mediante soluciones tecnológicas impone una estructuración formal adecuadamente respaldada en el ordenamiento positivo. En el tráfico comercial contemporáneo, la validez probatoria de los acuerdos celebrados por medios electrónicos exige determinar con rigor técnico la autoría, la integridad del documento y la inalterabilidad del consentimiento prestado.
+​El principio de equivalencia funcional permite equiparar el documento electrónico signado digitalmente al documento tradicional en soporte papel con firma ológrafa. Sin embargo, frente a eventuales impugnaciones de falsedad o desconocimiento de la autoría, la inadecuada tipificación del tipo de firma utilizado debilita la fuerza ejecutiva del contrato, transformando un negocio jurídico legítimo en un título probatorio complejo de difícil acreditación en juicio.
+​II. MARCO NORMATIVO: DEL CCCN A LA LEY 25.506 Y EL DECRETO 182/2019
+​El sustento formal de la contratación digital en la República Argentina responde a una estructura normativo-sistemática integrada por:
+​El Código Civil y Comercial de la Nación (CCCN):
+​Art. 286: Admite expresamente la expresión escrita en cualquier soporte, incluidos los medios electrónicos.
+​Art. 287: Clasifica a los instrumentos generados por medios electrónicos sin firma digital formal como instrumentos particulares no firmados.
+​Art. 288: Establece expresamente que en los documentos generados por medios electrónicos, el requisito de la firma de una persona se satisface únicamente mediante la Firma Digital, garantizando la autoría e integridad del texto.
+​La Ley de Firma Digital N° 25.506 y el Decreto Reglamentario 182/2019:
+​La Ley 25.506 consagró la infraestructura de clave pública (PKI - Public Key Infrastructure).
+​El Decreto 182/2019 actualizó el marco operativo, ratificando la validez de los certificados digitales emitidos por Licenciadores autorizados y profundizando la simplificación del trámite de certificación y la interoperabilidad de la firma digital en la órbita pública y privada.
+​III. DIFERENCIA DOGMÁTICA: FIRMA DIGITAL VS. FIRMA ELECTRÓNICA
+​Ante la necesidad de digitalizar procesos comerciales, la legislación argentina diferencia estrictamente la eficacia y el régimen probatorio de ambas herramientas:
+​Firma Digital (Art. 2, Ley 25.506): Posee un certificado digital emitido por un Certificador Licenciado. Goza legalmente de dos presunciones procedimentales iuris tantum:
+​Presunción de autoría: Se presume que el documento pertenece al titular del certificado digital.
+​Presunción de integridad: Se presume que el documento no ha sido modificado desde el momento de su firma.
+​Firma Electrónica (Art. 5, Ley 25.506): Corresponde a aquellos medios electrónicos (p. ej., biometría simple, claves OTP, aceptación por clickwrap o firmas digitalizadas) que carecen de los requisitos legales para ser considerados firma digital. Si es desconocida por la contraparte, se invierte la carga de la prueba, obligando a quien la invoca a acreditar su validez mediante peritación informática.
+​IV. LA NATURALEZA JURÍDICA DEL SMART CONTRACT
+​Un Smart Contract o contrato inteligente es un programa informático (código ejecutable) desplegado en una red distribuida o blockchain, cuya función principal es la ejecución automatizada de instrucciones prescriptas ("if/then") sin intervención humana posterior.
+​Desde la perspectiva procesal y civilista, resulta imperativo delimitar su naturaleza:
+​El código como ejecución, no como acuerdo formal: El smart contract por sí solo no siempre constituye un contrato en sentido legal (Art. 957 del CCCN), sino más bien el mecanismo tecnológico de ejecución de obligaciones asumidas previa o simultáneamente.
+​El problema de las claves criptográficas: La firma de una transacción en blockchain mediante una clave privada (private key) constituye, bajo la ley argentina, una Firma Electrónica, salvo que la clave pública asociada esté vinculada a un certificado digital emitido por un Certificador Licenciado en el marco de la PKI nacional.
+​El Contrato Marco o Híbrido: Para dotar al smart contract de plena ejecutividad jurídica, resulta indispensable vincular el código fuente depositado en la cadena de bloques con un instrumento jurídico convencional en lenguaje natural, firmado digitalmente mediante Ley 25.506, donde se inserte la dirección del contrato (smart contract address) y el hash correspondiente.
+​V. PRUEBA DOCUMENTAL Y BLINDAJE PROBATORIO EN SEDE JUDICIAL
+​Para la admisibilidad y posterior ejecución judicial de un contrato automatizado en el fuero comercial, la arquitectura de la transacción requiere un riguroso blindaje probatorio:
+​Trazabilidad y Metadatos: Preservación de logs de auditoría, marcados de tiempo (timestamps) y metadatos de emisión que relacionen inequívocamente a los contratantes con las direcciones públicas (public keys) operadas.
+​Integración con la Vía Ejecutiva: Para habilitar la preparación de la vía ejecutiva (Art. 525 del CPCCN) o el cobro directo de saldos generados por la automatización del código, el título originario debe revestir la calidad de instrumento firmado digitalmente.
+​Dictamen Pericial de Mapeo: En caso de litigio, la prueba pericial informática debe corroborar que el comportamiento del código en la blockchain se corresponde de manera biunívoca con las condiciones normativas pactadas en el contrato marco digital.
+​VI. CONCLUSIÓN Y EL DEBER DE RIGOR EN LA PRAXIS CONTRACTUAL
+​La contratación electrónica moderna y la implementación de contratos inteligentes exigen una metodología inexpugnable que trascienda la mera fascinación tecnológica. La sola automatización mediante código no suple las exigencias que el Código Civil y Comercial de la Nación impone para la atribución de autoría y la validez de las manifestaciones de voluntad.
+​La precisa elección de los instrumentos probatorios —articulando el diseño de smart contracts con el uso formal de la Firma Digital (Ley 25.506 y Dec. 182/2019)— asegura la tutela judicial efectiva y permite transformar los acuerdos automatizados en títulos con plena ejecutividad ante los tribunales comerciales.
